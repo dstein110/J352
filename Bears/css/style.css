@@ -1,0 +1,53 @@
+body {
+  background-color:#020d5f;
+}
+p {
+  
+  font-family: "Roboto", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 300;
+
+    color:#ffffff;
+}
+
+
+h1 {
+  .rakkas-regular
+  font-family: "Rakkas", serif;
+  font-weight: 900;
+  font-style: bold;
+color:#f65305;
+
+background-color:#ffffff;
+width:100%;
+padding: 10px;
+}
+
+
+li {color:#ffffff}
+
+h2 {color:#f65305}
+
+
+.subhead {
+  color: lightcoral;
+  front-weight: 850;
+  line-height: 1.5rem;
+  font-style: bold;
+}
+
+a { 
+color: hotpink; }
+
+
+table, th, td 
+{border: 3px solid #f65305;
+
+  color: #ffffff}
+
+  img {
+padding-right: 100px;
+  }
