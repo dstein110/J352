@@ -1,0 +1,65 @@
+body {
+    background-color: #e8e7e7;
+
+ 
+h1 {
+text-align: center;
+    font-family: "Roboto", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 300;
+}
+
+p{
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+}
+
+subhead {
+    font-style: italic;
+    font-weight: bold;
+}
+
+h2 {
+    font-size: 28px;
+    font-weight: bold;
+}
+p2 {
+    font-size: 12px;
+    font-style: italic;
+}
+a {
+    text-decoration: underline;
+}
+
+.pquote {
+    float: left;
+    width: 100%px;
+    background: #eeb967;
+    font-weight: bold;
+    padding: 13px;
+    margin: 0 13px 13px 0;
+}
+
+blockquote {
+    margin: 0; 
+}
+p1 {
+    font-style: italic;
+}
+
+
+
+
+
+
+
+
+
