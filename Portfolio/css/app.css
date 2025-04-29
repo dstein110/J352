@@ -1,0 +1,17 @@
+h1{
+    font-family: "National Park";
+}
+p {
+    font-family: "National Park";
+}
+body {
+  background-color: #94b5ef;
+  font-family: "National Park";
+}
+h3 {
+    text-decoration: underline;
+    text-decoration-color: #43d6f3
+}
+h4 {
+    border-style: solid;
+}
